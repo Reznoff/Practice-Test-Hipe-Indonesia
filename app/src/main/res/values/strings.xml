@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="_7_days">7 Days</string>
+    <string name="icon">icon</string>
+    <string name="loading">Loading…</string>
+
+    <string name="powered_by_darksky">Powered by DarkSky</string>
+    <string name="visibility">Visibility</string>
+    <string name="uv_index">UV Index</string>
+    <string name="pressure">Pressure</string>
+    <string name="dew_point">Dew Point</string>
+    <string name="humidity">Humidity</string>
+    <string name="current_details">Current Details</string>
+    <string name="precipitation">Precipitation</string>
+</resources>
